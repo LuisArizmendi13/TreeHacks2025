@@ -1,0 +1,17 @@
+name: treehack
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - opencv
+  - pytorch
+  - torchvision
+  - ultralytics  # YOLOv8 package
+  - jupyterlab  # Add JupyterLab for running notebooks
+  - pip
+  - pip:
+      - torch  # Ensure latest PyTorch version
+      - transformers  # Needed for vision-language models
+
