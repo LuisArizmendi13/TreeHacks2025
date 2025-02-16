@@ -1,0 +1,699 @@
+
+Processing 1/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00001.mp4
+Question: Was ego doing a legal maneuver if its goal is to turn right at the intersection? A. It's legal as the lane is empty. B. It's illegal as the right turn lane is bloacked by construction. C. It's illegal as ego was cutting in other vehicles that were waiting. D. It's legal but the lane ahead is way too narrow for ego to pass.
+Video Description: a car driving down a road with construction cones and traffic cones
+ a car driving down a road with construction cones and a traffic light
+ a car driving down a road with construction cones
+ a car driving down a street with construction cones and a traffic light
+ a view of a road with traffic and construction cones
+ a street with a lot of cars and cones
+ a street with a lot of cars and cones
+ a view of a busy street with cars and trucks
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00001.mp4
+Answer: B. It's illegal as the right turn lane is blocked by construction.
+
+Processing 2/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00002.mp4
+Question: Where can ego legally park on this street? A. No parking anywhere. B. next to right curb. C. anywhere. D. next to left curb.
+Video Description: a street with a lot of traffic and buildings
+ a street with a lot of traffic cones and cars
+ a parking lot with a few cars parked in it
+ a car parked in front of a restaurant at night
+ a small car is driving down the street at night
+ a car driving down a dark street at night
+ a street at night with a street light
+ a street at night with a street light and cones
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00002.mp4
+Answer: A. No parking anywhere.
+
+Processing 3/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00003.mp4
+Question: What is the best description of the maneuver ego just did? A. Lane change to the left and then lane change to the right. B. Lane change to the right and then lane change to the left. C. Staying in a lane which curves to the left and then to the right. D. Staying in a lane which curves to the right and then to the left.
+Video Description: a car driving down a street with trees on either side
+ a car driving down a street with trees and houses
+ a car driving down a street with a stop sign
+ a car driving down a street with a stop sign
+ a street with cars driving down it
+ a street with a yellow line on it
+ a street with a yellow line on it
+ a street with a yellow line on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00003.mp4
+Answer: C. Staying in a lane which curves to the left and then to the right.
+
+Processing 4/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00004.mp4
+Question: Why is ego stopped? A. Judah. B. Traffic Light. C. Someone is crossing the road. D. Construction.
+Video Description: a street with a traffic light and a hill in the background
+ a street with a traffic light and a crosswalk
+ a street with a crosswalk and a traffic light
+ a street with a crosswalk and a stop sign
+ a street with a crosswalk and a traffic light
+ a street with a stop sign and a pole
+ a street with a stop sign and a car on it
+ a street with a stop sign and a car
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00004.mp4
+Answer: B. Traffic Light.
+
+Processing 5/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00005.mp4
+Question: What is the blinker state of the oncoming car, with respect to the oncoming car itself? A. LEFT. B. RIGHT. C. BOTH. D. OFF.
+Video Description: a car driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a street at night with cars driving down it
+ a street at night with cars driving down it
+ a car driving down a street at night
+ a street at night with cars driving down it
+ a street at night with cars driving down it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00005.mp4
+Answer: D. OFF.
+
+Processing 6/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00006.mp4
+Question: What is the reason ego changed lanes to the left? A.  Left lane has better views. B. Current lane is exit only. C. Current lane has a lower speed limit. D. Current lane is blocked.
+Video Description: a view of the freeway at night with cars driving on it
+ a car driving on the highway at night
+ a car driving on the highway at night
+ a view of the freeway at night with traffic lights
+ a car driving on a highway at night
+ a view of traffic on a highway at night
+ cars driving on the highway at night
+ a view of a highway at night with cars driving on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00006.mp4
+Answer: B. Current lane is exit only.
+
+Processing 7/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00007.mp4
+Question: What is the correct behavior for ego and why? A. Continue straight in a nominal scenario. B. Slow down for a pedestrian. C. Veer left to avoid an obstacle. D. Veer right to avoid an obstacle.
+Video Description: a car is driving down a dark road at night
+ a car is driving down a dark road at night
+ a car is driving down a dark road at night
+ a car is driving down a dark road at night
+ a car driving down a dark road at night
+ a car is parked on the side of the road at night
+ a car is parked on the side of the road at night
+ a car is driving down a dark road at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00007.mp4
+Answer: A. Continue straight in a nominal scenario.
+
+Processing 8/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00008.mp4
+Question: How many flashing traffic light bulbs are there? A. 0. B. 2. C. 4. D. 6.
+Video Description: a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00008.mp4
+Answer: A. 0.
+
+Processing 9/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00009.mp4
+Question: Which one if more accurate in terms of the distance from the back of the red car in front to the front bumper of the ego? A. 20m. B. 40m. C. 60m. D. 100m.
+Video Description: a car driving down a road with construction cones and a truck
+ a car driving down a road with a motorcycle on top
+ a car driving down a road with a motorcycle on top
+ a truck driving down a road with a sign on it
+ a truck driving down a road with a construction sign on it
+ a view of a busy road with cars and trucks
+ a view of a road with a truck on it
+ a view of a busy highway with cars and trucks
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00009.mp4
+Answer: A. 20m.
+
+Processing 10/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00010.mp4
+Question: Ignoring pedestrian lights, how many traffic lights are relevant to ego? A. 2. B. 4. C. 6. D. 8.
+Video Description: a wet street at night with red lights
+ a wet street at night
+ a wet street at night
+ a wet street at night
+ a wet street at night
+ a wet street at night
+ a wet street at night
+ a wet street at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00010.mp4
+Answer: A. 2.
+
+Processing 11/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00011.mp4
+Question: What is the status of the traffic light? A. Solid green. B. Blinking green. C. Solid red. D. Blinking red.
+Video Description: a car driving down the street at night
+ a car driving down the street at night
+ a car is driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a street at night with cars driving on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00011.mp4
+Answer: C. Solid red.
+
+Processing 12/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00012.mp4
+Question: What are the available maneuvers through the intersection for the right most lane? A. Go straight only. B. Turn right only. C. Go straight and turn right. D. None of the above.
+Video Description: a car driving down a street with a large sign
+ a car driving down a street with a traffic light
+ a car driving down a street with a traffic light
+ a car driving down a street with a traffic light
+ a car driving down a street with a traffic light
+ a car driving down a street with traffic lights
+ a car driving down a street with traffic lights
+ a car driving down a street with traffic lights
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00012.mp4
+Answer: D. None of the above.
+
+Processing 13/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00013.mp4
+Question: Where is the pedestrian with respect to ego? A. On the crosswalk closest to ego. B. On the crosswalk on the left. C. On the crosswalk on the right. D. On the crosswalk at the opposite side of the intersection.
+Video Description: a street with a stop light and a gas station
+ a street with a stop light and a gas station
+ a street at night with a gas station and a traffic light
+ a street with a stop light and a gas station
+ a street with a stop light and a gas station
+ a street with a gas station and a stop light
+ a street with a stop light and a gas station
+ a street with a stop light and a gas station
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00013.mp4
+Answer: I'm sorry, but I can't answer that question based on the provided video summary.
+
+Processing 14/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00014.mp4
+Question: Why does the truck ahead of ego have its blinkers on? A. To signal a lane change away from ego. B. To signal a merge towards ego. C. To show hazardous conditions. D. Its blinkers are not on.
+Video Description: a car driving down a highway with traffic on the side
+ a view of a freeway with cars driving on it
+ a view of a freeway with cars driving on it
+ a view of a freeway with cars and trucks on it
+ a car driving down a highway with a few cars behind it
+ a view of a freeway with cars driving on it
+ a highway with cars and trucks driving on it
+ a car driving down a highway with a sign that says "no left turn"
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00014.mp4
+Answer: C. To show hazardous conditions.
+
+Processing 15/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00015.mp4
+Question: What should ego do? A. turn right. B. pullover and yield for the emergency vehicle. C. turn left. D. come to a stop and then proceed from stop sign.
+Video Description: a street with cars parked on both sides of the road
+ a street with cars parked on both sides of the road
+ a street with cars and a stop sign
+ a street with cars driving down it
+ a street with a stop sign and cars driving down it
+ a street with a stop sign painted on it
+ a street with cars parked on both sides of the street
+ a street with cars parked on both sides
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00015.mp4
+Answer: D. come to a stop and then proceed from stop sign.
+
+Processing 16/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00016.mp4
+Question: What would be the most appropriate maneuver for ego from this position? A. Reverse. B. Turn left. C. Turn right. D. Go straight.
+Video Description: a street with houses on both sides and trees
+ a street with houses on both sides and trees on the side
+ a street with houses on both sides and trees on either side
+ a street with trees and bushes on both sides
+ a street with houses on both sides and a tree in the middle
+ a street with houses on both sides
+ a street with houses on both sides
+ a street view of a residential area with houses and trees
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00016.mp4
+Answer: I'm sorry, but I can't provide an answer based on the information given.
+
+Processing 17/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00017.mp4
+Question: What hazard is on the ground? A. Mud. B. Leaves. C. Oil. D. Snow.
+Video Description: a view of a street with a car driving down it
+ a street with a car driving down it
+ a car driving down a street with a building in the background
+ a car is driving down a street with a building in the background
+ a car driving down a street with a crosswalk
+ a street with a car driving down it
+ a street with a stop sign and a car driving down it
+ a street with a yellow line on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00017.mp4
+Answer: C. Oil.
+
+Processing 18/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00018.mp4
+Question: Why is it necessary for the car to slow down? A. For another vehicle. B. For a pedestrian. C. For an animal. D. For a traffic light.
+Video Description: a view of a street with cars and traffic lights
+ a view of a street intersection with cars and a traffic light
+ a traffic light is on the corner of a street
+ a car is driving down the road
+ a car is driving down a street with a traffic light
+ a car is driving down the road
+ a car is driving down the road
+ a car driving down the street
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00018.mp4
+Answer: D. For a traffic light.
+
+Processing 19/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00019.mp4
+Question: How many lanes are there in total and which lane is best for going to Half Moon Bay? A. 4 and the right most lane. B. 5 and the right most lane. C. 4 and the second right most lane. D. 5 and the second most lane.
+Video Description: a freeway with cars driving on it
+ a freeway with cars driving on it
+ a freeway with cars driving on it
+ a freeway with cars driving on it
+ a freeway with cars driving on it and a sign
+ a freeway with cars driving on it
+ a freeway with cars driving on it and signs
+ a freeway with cars driving on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00019.mp4
+Answer: C. 4 and the second right most lane.
+
+Processing 20/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00020.mp4
+Question: Is it safe for ego to park right here? A. yes there is a parking lot here. B. Yes the shoulder is large enough. C. No there's no safe place to pullover. D. No there's a fire station.
+Video Description: a hillside with a sign on it
+ a car driving down a road with a hill in the background
+ a view of a road with a stop sign and a hill
+ a view of a road with a stop sign and a cloud covered sky
+ a view of a road with a car driving on it
+ a view of a road with a sky and trees
+ a view of a road from a car window
+ a view of a road with a yellow line
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00020.mp4
+Answer: C. No there's no safe place to pullover.
+
+Processing 21/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00021.mp4
+Question: What type of lane is to the right of ego? A. Bus lane. B. Bike lane. C. Carpool lane. D. Right-turn-only lane.
+Video Description: a street with a yellow line and a stop sign
+ a street with a stop sign and a yellow line
+ a street with a yellow line on it
+ a street with a yellow line on it
+ a street with a yellow line on it
+ a street with a yellow line and a stop sign
+ a street with a yellow traffic light and a house
+ a street with a truck driving down the middle of it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00021.mp4
+Answer: B. Bike lane.
+
+Processing 22/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00022.mp4
+Question: At what time can ego park at the side of the road? A. 9am. B. 2pm. C. 8pm. D. None of the above.
+Video Description: a motorcycle is parked on the side of the road
+ a street with a motorcycle on it at night
+ a motorcycle is driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a car is driving down a street at night
+ a car is parked on the side of a street
+ a car is parked at a stop sign on a city street
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00022.mp4
+Answer: C. 8pm.
+
+Processing 23/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00023.mp4
+Question: What's the state of ego-relevant traffic light? A. Green left arrow. B. Green right arrow. C. Yellow left arrow. D. Yellow right arrow.
+Video Description: a street with cars parked on it and a hill in the background
+ a street with cars and a hill in the background
+ a street with cars and a hill in the background
+ a street with cars on it
+ a street with cars on it and a hill in the background
+ a street with cars and a hill in the background
+ a street with cars on it
+ a street with cars and a hill in the background
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00023.mp4
+Answer: I'm sorry, I cannot determine the state of the traffic light from the provided information.
+
+Processing 24/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00024.mp4
+Question: Which traffic light is the most immediately relevant for ego? A. Red light. B. Red light for right turn. C. Yellow light. D. Green light.
+Video Description: a car driving down a street at night
+ a car driving down a road at night
+ a car driving down a road at night
+ a street with a car driving on it at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a car driving down a street at night
+ a car driving down an empty street at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00024.mp4
+Answer: C. Yellow light.
+
+Processing 25/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00025.mp4
+Question: How many vehicles appeared in the video, just consider those on the same side of ego? A. 3. B. 4. C. 5. D. 6.
+Video Description: a truck is driving down the road with a car behind it
+ a truck is driving down the road next to a car
+ a truck is driving down the road
+ a truck is driving down the road with a trailer behind it
+ a truck and a car driving down a highway
+ a truck is driving down the road with a car behind it
+ a truck and a car driving down a road
+ a truck driving down the road with a white truck behind it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00025.mp4
+Answer: B. 4.
+
+Processing 26/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00026.mp4
+Question: Which directions can ego proceed in? A. straight. B. straight or right. C. left only. D. None of the above.
+Video Description: a street with orange and white traffic cones at night
+ a street with orange cones on the side of the road
+ a street with orange cones on the side of the road
+ a street with orange cones and a road at night
+ a dark road with orange and white traffic cones
+ a view of a road at night with orange cones
+ a street with orange cones and traffic cones at night
+ a street with orange and white traffic cones
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00026.mp4
+Answer: D. None of the above.
+
+Processing 27/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00027.mp4
+Question: What's the upcoming exit number? A. 1. B. 500. C. 27. D. 80.
+Video Description: a car driving on a highway at night with rain
+ a wet road at night with traffic on it
+ a car driving on a wet highway at night
+ a car driving on a highway at night
+ a car driving on a highway at night
+ a car driving on a highway at night
+ a car driving on a highway at night with green lights
+ a rainy night on the highway with traffic lights
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00027.mp4
+Answer: C. 27.
+
+Processing 28/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00028.mp4
+Question: Is there a vehicle to ego's left? A. Yes. B. No. C. Insufficient evidence. D. None of the above.
+Video Description: a street with a traffic light and a bridge
+ a street with a traffic light and a bridge
+ a street with a traffic light and a bridge
+ a street with a lot of cars on it
+ a car driving down a street at night
+ a car driving down a street at night
+ a dark sky with clouds
+ a street with a car driving down it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00028.mp4
+Answer: C. Insufficient evidence.
+
+Processing 29/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00029.mp4
+Question: Why did ego come to a stop? A. Crossing vehicle. B. No space without blocking intersection. C. Stop sign. D. Cross pedestrians.
+Video Description: a street with cars driving down it
+ a car driving down a street with a stop sign
+ a street with cars driving down it and a traffic light
+ a street with cars and a traffic light
+ a street with cars driving down it and a traffic light
+ a street with cars driving down it
+ a street with cars driving down it
+ a street with cars driving down it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00029.mp4
+Answer: C. Stop sign.
+
+Processing 30/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00030.mp4
+Question: What is the most likely course of action for the vehicle in front of ego? A. Turn left. B. Go straight. C. Turn right. D. Reverse.
+Video Description: a view of a busy street with traffic lights and cars
+ a view of a busy street with cars and trucks
+ a view of a busy intersection with traffic lights and trucks
+ a view of a busy intersection with traffic lights and cars
+ a truck is driving down the street with traffic lights
+ a truck is driving down the street with a construction worker on the back of the truck a truck driving down the street with a truck behind it
+ a truck driving down the street with a trailer attached
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00030.mp4
+Answer: B. Go straight.
+
+Processing 31/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00031.mp4
+Question: Is it appropriate for ego to turn right now and why? A. Yes, for a right on red. B. Yes, the traffic lights are green. C. No, there is a no right on red sign. D. No, there is cross traffic.
+Video Description: a wet street at night
+ a street with a red light on it
+ a street with a red light at night
+ a street with a red light at night
+ a wet street at night
+ a wet road at night
+ a wet street at night
+ a wet road at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00031.mp4
+Answer: C. No, there is a no right on red sign.
+
+Processing 32/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00032.mp4
+Question: What is the weight limit on this road? A. 3 lbs. B. 3 tons. C. 3 kgs. D. 3 oz.
+Video Description: a street with cars and a crosswalk
+ a man is crossing the street in front of a building
+ a white building
+ a large tree
+ a large tree in the middle of the road
+ a tree in the middle of the road
+ a street with a stop sign and a hill in the background
+ a street with a stop sign and a pole
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00032.mp4
+Answer: B. 3 tons.
+
+Processing 33/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00033.mp4
+Question: What's wrong with ego's behavior? A. Ego is bumping into the ballard. B. Ego is speeding. C. Ego is driving on the wrong direction of the road. D. Things look normal, nothing is wrong.
+Video Description: a bike path at night with lights on the road
+ a view of a road at night with lights on
+ a view of a road at night with lights on
+ a bike lane at night with lights on the road
+ a bike path at night with lights on the side
+ a bike lane at night with a lighted bike path
+ a bike path at night with lights on
+ a bike path at night with lights on the road
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00033.mp4
+Answer: D. Things look normal, nothing is wrong.
+
+Processing 34/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00034.mp4
+Question: How many drivable lanes in the scene that are parallel (include opposing lanes as well) to ego? A. 5. B. 4. C. 3. D. 6.
+Video Description: a street with cars driving down it and power lines
+ a street with cars driving down it and power lines
+ a car driving down a street with power lines in the background
+ a view of a street with cars driving down it
+ a street with cars driving down it and power lines
+ a street with cars driving down it
+ a street with cars driving down it
+ a car driving down a street with power lines and trees
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00034.mp4
+Answer: B. 4.
+
+Processing 35/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00035.mp4
+Question: What's special about the lane to the right of ego? A. Bike lane. B. Reversible lane. C. Bus lane. D. HOV lane.
+Video Description: a street with a few street signs and a few cars
+ a street at night with a street sign and a car
+ a street at night with a car driving down it
+ a street at night with a red light
+ a street with a red and white painted bike lane at night
+ a street with a bus stop sign on it
+ a street at night with a car driving down it
+ a street at night with a bus and a building
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00035.mp4
+Answer: A. Bike lane.
+
+Processing 36/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00036.mp4
+Question: Count the number of unique vehicles that enter the video frame but do not exit the video frame. A. 0. B. 1. C. 2. D. 3. E. 4.
+Video Description: a street with cars parked in front of a house
+ a street with cars parked in front of a house
+ a street with cars parked in front of a house
+ a street view of a house at night
+ a street with a house and a car parked in front of it
+ a street with a house and a car parked in front of it
+ a street with cars parked in front of a house
+ a car is driving down the street at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00036.mp4
+Answer: A. 0.
+
+Processing 37/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00037.mp4
+Question: Why is ego's current lane not appropriate? A. It's for oncoming traffic. B. It's closed for roadwork. C. Heavier traffic than required. D. It's not for passenger cars.
+Video Description: a street with cars driving down it
+ a street with cars driving down it
+ a street with cars driving down it and a building in the background
+ a street with cars driving down it
+ a street with cars driving down it and a building in the background
+ a street with cars driving down it and a taxi cab
+ a street with cars and buildings in the background
+ a street with cars and buildings in the background
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00037.mp4
+Answer: A. It's for oncoming traffic.
+
+Processing 38/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00038.mp4
+Question: Count the number of unique pedestrians seen by the ego. A. 0. B. 1. C. 2. D. 3. E. 4.
+Video Description: a street with cars driving down it
+ a street with cars driving down it
+ a street with cars driving down it
+ a street with cars driving down it
+ a view of cars driving down a street in san francisco
+ a street with cars driving down it
+ a street with cars driving down it
+ a street with cars and trees on both sides
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00038.mp4
+Answer: A. 0.
+
+Processing 39/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00039.mp4
+Question: Why does the car in front of ego stop? A. Red Light. B. Stop Sign. C. Yielding to cross-traffic. D. Does not come to a stop.
+Video Description: a car is driving down the street at night
+ a car is driving down the street at night
+ a car is driving down a street at night
+ a car is driving down the street at night
+ a car is parked in a parking lot at night
+ a car is parked in a parking lot at night
+ a car is parked in a parking lot at night
+ a car is parked in a parking lot at night
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00039.mp4
+Answer: D. Does not come to a stop.
+
+Processing 40/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00040.mp4
+Question: What is the white car most likely to do at the stop sign? A. turn right. B. full stop. C. proceed straight. D. turn left.
+Video Description: a street with cars parked on both sides of the street
+ a street with cars parked on it
+ a street with cars driving down it and a building in the background
+ a street with cars and a building in the background
+ a street with cars parked on both sides
+ a street with cars parked on both sides of the road
+ a street with cars parked on both sides
+ a street with cars parked on both sides of the road
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00040.mp4
+Answer: B. full stop.
+
+Processing 41/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00041.mp4
+Question: Which ways may ego proceed from it's current lane? A. straight only. B. straight or left. C. left only. D. right only.
+Video Description: a view of a city street from a car window
+ a street with cars driving down it and a traffic light
+ a view of a city street with cars driving down it
+ a street with cars driving down it and traffic lights
+ austin city council approves $1.5 million for downtown street improvements
+ a street with cars driving down it and a traffic light
+ a street with cars driving down it and a traffic light
+ a street with cars driving down it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00041.mp4
+Answer: A. straight only.
+
+Processing 42/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00042.mp4
+Question: Which traffic light is relevant to ego's current lane? A. The blinking left arrow. B. The green circle. C. The blinking right arrow. D. The red circle.
+Video Description: a car driving down a road at sunset
+ a view of a street at sunset from inside a car
+ a view of a street at sunset with cars on it
+ a view of a street at sunset with cars on it
+ a view of a street at sunset with cars and traffic
+ a view of a street at sunset
+ a view of a street at sunset
+ a view of a street at sunset
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00042.mp4
+Answer: D. The red circle.
+
+Processing 43/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00043.mp4
+Question: What type of building is the road sign indicating is ahead? A. Airport. B. Embassy. C. Restaurant. D. Hotel.
+Video Description: a street with a traffic light and a building in the background
+ a street with a traffic light and a building in the background
+ a street with a traffic light and a building
+ a view of a city street with a traffic light
+ a street with a traffic light and a building
+ a street with a traffic light and a building in the background
+ a street with a traffic light and a building
+ a street with cars driving down it and traffic lights
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00043.mp4
+Answer: I'm sorry, I can't answer that question without more specific visual details from the video.
+
+Processing 44/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00044.mp4
+Question: Why is it appropriate for ego to remain stopped? A. Waiting for right of way. B. For a traffic light. C. For a stop sign. D. For a pedestrian.
+Video Description: a street with trees and cars on it
+ a street with cars driving down it
+ a white van is driving down a street
+ a street with cars and trucks driving down it
+ a street with cars and trees on both sides
+ a street with cars and trees on both sides
+ a street with cars driving down it
+ a street with cars driving down it and trees on either side
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00044.mp4
+Answer: A. Waiting for right of way.
+
+Processing 45/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00045.mp4
+Question: Which lane is blocked by construction? A. Left most lane. B. Center lane. C. Right most lane. D. None of the above.
+Video Description: a road with trees and a sign on it
+ a street with a sign on it
+ a street with a green sign on it
+ a street with a sign on it that says green road
+ a street with a few cars driving down it
+ a street with a few cars driving down it
+ a street with a car driving down it
+ a street with traffic lights and cars on it
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00045.mp4
+Answer: D. None of the above.
+
+Processing 46/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00046.mp4
+Question: What is closest to the average speed of the truck in front of ego? A. 5 miles per hour. B. 17 miles per hour. C. 24 miles per hour. D. 35 miles per hour.
+Video Description: a truck driving down the road with a trailer attached
+ a truck driving down a road with a sign on it
+ a truck driving down a road with a fence on the side
+ a truck driving down the road with a trailer attached
+ a truck driving down a road with a large trailer attached
+ a truck driving down a road with a fence on the side
+ a truck driving down a road with a bridge in the background
+ a truck driving down a road with a bridge in the background
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00046.mp4
+Answer: B. 17 miles per hour.
+
+Processing 47/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00047.mp4
+Question: Why is ego slowing down? A. pedestrian on crosswalk. B. stop sign. C. red light. D. Open car door.
+Video Description: a house with a car parked in front of it
+ a car is parked in front of a house
+ a car is parked in front of a house
+ a car is parked in front of a house
+ a car is parked in front of a house
+ a car is parked in front of a house
+ a car is parked in front of a house
+ a car is parked in front of a house
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00047.mp4
+Answer: D. Open car door.
+
+Processing 48/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00048.mp4
+Question: What can ego do next while the light is still red? A. Make a left turn. B. Make a right turn. C. Go in reverse. D. Stay stopped.
+Video Description: a bike lane on a street at night
+ a street with a red light and a car driving on it
+ a street with a red light on it
+ a street with traffic lights and a car driving by
+ a street with traffic lights and a car driving down the road
+ a street with traffic lights and a car driving down the road
+ a street with a traffic light and a car
+ a street with a traffic light and a car
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00048.mp4
+Answer: D. Stay stopped.
+
+Processing 49/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00049.mp4
+Question: At the roundabout, which way leads to Monroe Drive? A. Straight. B. Left. C. Right.
+Video Description: a car driving down a street at night
+ a street at night with a car driving down it
+ a street at night with a car driving down it
+ a street at night with cars driving down it
+ a truck driving down a street at night
+ a street at night with cars driving down it
+ a car driving down a street at night
+ a street at night with a car driving down the road
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00049.mp4
+Answer: I'm sorry, but I can't determine the direction to Monroe Drive from the information provided.
+
+Processing 50/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00050.mp4
+Question: When the light turns green, can ego traverse straight through the intersection and why? A. Yes, this is a legal maneuver. B. No, there is construction ahead. C. No, there is a sign that says yield to pedestrians. D. No, there is a sign that says all traffic must turn.
+Video Description: a street with a car driving on it
+ a car driving down a street with a traffic light
+ a street with a traffic light and a building
+ a street with a car driving down it
+ a car driving down a street with a traffic light
+ a street with a traffic light and a building
+ a street with a traffic light and a building
+ a street with a traffic light and a building
+
+Completed: /home/ubuntu/TreeHacks2025/data/videos/videos/00050.mp4
+Answer: A. Yes, this is a legal maneuver.
