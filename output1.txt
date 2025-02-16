@@ -1,4 +1,3 @@
-
 Processing 1/50: /home/ubuntu/TreeHacks2025/data/videos/videos/00001.mp4
 Question: Was ego doing a legal maneuver if its goal is to turn right at the intersection? A. It's legal as the lane is empty. B. It's illegal as the right turn lane is bloacked by construction. C. It's illegal as ego was cutting in other vehicles that were waiting. D. It's legal but the lane ahead is way too narrow for ego to pass.
 Video Description: a car driving down a road with construction cones and traffic cones
